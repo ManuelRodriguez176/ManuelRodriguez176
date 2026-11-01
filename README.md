@@ -24,3 +24,5 @@ Convierto reportes operativos en dashboards que ayudan a decidir. En mi último 
 ### Contacto
 
 Abierto a oportunidades como **analista de datos o de visualización** en Panamá.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Rodr%C3%ADguez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-efrain-rodriguez-prescod-38b3a92bb)
